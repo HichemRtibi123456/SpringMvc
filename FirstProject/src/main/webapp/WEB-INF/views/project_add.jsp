@@ -38,7 +38,7 @@
 				</div>
 
 				<div class="form-group">
-					<label for="project_type">Type</label> <select name="type"
+					<label for="project_type">Type</label> <select name="types"
 						class="selectpicker">
 						<option></option>
 						<option value="single">Single Year</option>
